@@ -688,7 +688,7 @@
                 "value": "{\"isGeneralNumber\":true}"
               }
             ],
-            "expression": "SUM(Example[Sales_LCY])",
+            "expression": "SUM(Example[Sales_LCY])*2",
             "lineageTag": "d18b4bff-7f73-4134-a050-30181b0d9333"
           }
         ],
