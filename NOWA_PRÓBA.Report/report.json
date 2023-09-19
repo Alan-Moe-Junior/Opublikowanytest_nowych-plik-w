@@ -36,12 +36,12 @@
           "z": 0.00
         },
         {
-          "config": "{\"name\":\"f47123c17bd0546a66c2\",\"layouts\":[{\"id\":0,\"position\":{\"x\":143.95983263598328,\"y\":60.32602510460251,\"z\":1000,\"width\":478.4950627615063,\"height\":300.259079497908}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Example.TRY\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"e\",\"Entity\":\"Example\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"e\"}},\"Property\":\"TRY\"},\"Name\":\"Example.TRY\",\"NativeReferenceName\":\"TRY\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"e\"}},\"Property\":\"TRY\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "config": "{\"name\":\"f47123c17bd0546a66c2\",\"layouts\":[{\"id\":0,\"position\":{\"x\":47.62338648443433,\"y\":359.60516324981023,\"z\":1000,\"width\":478.17767653758546,\"height\":300.31890660592256}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Example.TRY\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"e\",\"Entity\":\"Example\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"e\"}},\"Property\":\"TRY\"},\"Name\":\"Example.TRY\",\"NativeReferenceName\":\"TRY\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"e\"}},\"Property\":\"TRY\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
           "filters": "[]",
-          "height": 300.26,
-          "width": 478.50,
-          "x": 143.96,
-          "y": 60.33,
+          "height": 300.32,
+          "width": 478.18,
+          "x": 47.62,
+          "y": 359.61,
           "z": 1000.00
         }
       ],
